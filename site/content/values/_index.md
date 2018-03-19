@@ -2,13 +2,6 @@
 title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Single origin
-    imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
     text: >
@@ -30,6 +23,13 @@ values:
       That’s why we reinvest 20% of our profits into farms, local businesses and
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
+  - heading: Single origin
+    imageUrl: /img/about-single-origin.jpg
+    text: >
+      Single-origin coffee is coffee grown within a single known geographic
+      origin. Sometimes, this is a single farm or a specific collection of beans
+      from a single country. The name of the coffee is then usually the place it
+      was grown to whatever degree available.
   - heading: Reinvest profits
     imageUrl: /img/about-reinvest-profits.jpg
     text: >
